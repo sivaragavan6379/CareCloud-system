@@ -1,0 +1,7 @@
+{
+  "name": "CareCloud | Smart Hospital System",
+  "description": "A comprehensive healthcare management platform featuring patient registration, AI-driven symptom reporting, automated token generation, doctor prescription management, and QR-based pharmacy dispensing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
